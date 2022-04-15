@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XMLBIBLE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" biblename="TDM Simple Version">
+    <BIBLEBOOK bnumber="1" bname="Piancilna" bsname="Pian">
+        <CHAPTER cnumber="1">
+            <VERS vnumber="1"> A kipat cil-in Pasian in vantung le leitung a piangsak hi. </VERS>
+            <VERS vnumber="2"> Leitung in limlemel nei loin a awngthawlpi ahi hi. Tuipi tung tengah khua mial bikbek a, tua tui tungah Pasian’ Kha in na a sem hi.
+            </VERS>
+            <VERS vnumber="3"> Pasian in, “Khuavak om hen,” ci hi; tua ciangin khuavak om pah hi. </VERS>
+            <VERS vnumber="4"> Pasian in tua khuavak hoih hi, ci-in a mu hi. Pasian in khuamial panin khuavak khen khia hi. </VERS>
+            <VERS vnumber="5"> Pasian in khuavak pen “Sun” ci a, khuamial pen “Zan” ci hi. Nitak hong bei-in, zingsang hong tunga, ni khat ni ahi hi.
+            </VERS>
+            <VERS vnumber="6"> Pasian in, “Tuite’ laizangah van kuumpi om henla, tua van kuumpi in tui le tui kikhensak hen,” ci hi. </VERS>
+            <VERS vnumber="7"> Pasian in van kuumpi bawl a, van kuumpi tunga om tuite le van kuumpi nuai-a om tuite a khen hi. Tua mah bangin a piang pah hi. </VERS>
+            <VERS vnumber="8"> Pasian in van kuumpi pen “Vantung” ci hi. Nitak hong bei-in zingsang hong tunga, ni nih ni ahi hi.
+            </VERS>
+            <VERS vnumber="9"> Pasian in, “Vantungte nuai-a om tuite mun khatah kikhawm henla, lei keu kidawk hen,” ci hi. Tua mah bangin a piang pah hi. </VERS>
+            <VERS vnumber="10"> Pasian in lei keu pen “Leitung” ci a, a kikaikhawm tuite pen “Tuipi” ci hi. Pasian in tua pen hoih hi, ci-in a mu hi. </VERS>
+            <VERS vnumber="11"> Pasian in, “Leitung in kung tuamtuamte piangsak henla, tang a nei kungnote, a gah sungah tang a om singgah kungte, amau’ nam ciatin leitungah piangsak hen,” ci hi. Tua mah bangin a piang pah hi. </VERS>
+            <VERS vnumber="12"> Leitung in kung tuamtuamte piang khiasak a, kungnote in amau’ nam ciatin tang piangsakin, singkung in a sungah tang a om gahte piangsakin, amau’ nam ciatciatin piangsak hi. Pasian in tua pen hoih hi, ci-in a mu hi. </VERS>
+            <VERS vnumber="13"> Nitak hong bei-in zingsang hong tunga, ni thum ni ahi hi.
+            </VERS>
+            <VERS vnumber="14"> Pasian in, “Sun le zan a khen dingin vantungah khuavakte om hen; tuate pen pawi hun le khuahun, ni le kumte khen nading hi henla, </VERS>
+            <VERS vnumber="15"> leitung khua a vaksak dingin vantungah khuavak hi uh hen,” ci hi. Tua mah bangin a piang pah hi. </VERS>
+            <VERS vnumber="16"> Pasian in khuavak lian nih bawl a, khuavak lian zaw pen sun a uk ding, khuavak neu zaw pen zan a uk dingin bawl a, amah in aksite zong a bawl hi. </VERS>
+            <VERS vnumber="17-18"> Leitungah khua a vaksak ding, sun le zan a uk ding, khuamial panin khuavak a khen khia dingin Pasian in vantungah tuate a koih hi. Pasian in tua pen hoih hi, ci-in a mu hi. </VERS>
+            <VERS vnumber="19"> Nitak hong bei-in zingsang hong tunga, ni li ni ahi hi.
+            </VERS>
+            <VERS vnumber="20"> Pasian in, “Tuite in a nungta ganhing honpite piangsak henla, vantung kantanin leitungah vasate leeng tahen,” ci hi. </VERS>
+            <VERS vnumber="21"> Tua ahih ciangin Pasian in tuipi ganhing golpite le amau nam ciatin tuipi sungah tampi a pha, nuntakna a nei a gamtang thei ganhing namkim le kha a nei vasa khempeuh amau nam ciatin a piangsak hi. Pasian in tua pen hoih hi, ci-in a mu hi. </VERS>
+            <VERS vnumber="22"> Pasian in amaute thupha pia a, “Ci pha-in tampi pha-in, tuipi sung dim unla, leitungah vasate tampi pha un,” ci hi. </VERS>
+            <VERS vnumber="23"> Nitak hong bei-in zingsang hong tunga, a ni nga ni ahi hi.
+            </VERS>
+            <VERS vnumber="24"> Pasian in, “Nuntakna a nei ganhingte amau nam ciatin leitung in piangsak hen: Innsa, gamsa le a bokvak ganhingte amau nam ciatin piang tahen,” a ci hi. Tua mah bangin a piang pah hi. </VERS>
+            <VERS vnumber="25"> Innsa, gamsa le a bokvak ganhing khempeuh amau nam ciatin Pasian in a piangsak hi. Pasian in tua pen hoih hi, ci-in a mu hi.
+            </VERS>
+            <VERS vnumber="26"> Tua ciangin Pasian in, “Eima lim, eimah hong sunin mihing bawl ni. Tuipi ngasate tung, huihlak vasate tung, ganhingte tung le leitunga, a bokvakte tungah ukna neisak ni,” a ci hi. </VERS>
+            <VERS vnumber="27"> Tua ahih ciangin Pasian in ama lim bangin mihing piangsakin, Pasian’ lim bangin amah a piangsak hi. Amah in numei le pasal a piangsak hi. </VERS>
+            <VERS vnumber="28"> Pasian in amaute thupha pia a, Pasian in amaute tungah, “Ci pha-in tampi pha unla, leitung dimin zo un. Tuipi ngasate tung, leitungah a gamtang, a nungtate tungah ukna nei ta un,” a ci hi. </VERS>
+            <VERS vnumber="29"> Pasian in, “En un, leitung maitang khempeuh ah a om, tang a piangsak kungno khempeuh le a gah sungah tang a om singkung khempeuh note tungah kong pia khinta hi. Tuate an-in na nei ding uh hi. </VERS>
+            <VERS vnumber="30"> Leitung ganhing khempeuhte tung, huihlak vasate tung, leitungah a bokvakte tung, nuntakna hu a neite tungah an dingin kung hing khempeuh kong pia khinta hi,” a ci hi. Tua mah bangin a piang pah hi. </VERS>
+            <VERS vnumber="31"> Pasian in a bawlsa khempeuh en a, hoihsa mahmah hi. Nitak hong bei-in zingsang hong tunga, a ni guk ni ahi hi.
+            </VERS>
+        </CHAPTER>
+        <CHAPTER cnumber="2">
+            <VERS vnumber="1"> Tua ahih ciangin vantung, leitung le a sunga omte kiman khin hi. </VERS>
+            <VERS vnumber="2"> Ni sagih ma-in Pasian in a nasepte zo khinta a, ama hihsa nasep khempeuh panin ni sagih ni-in a tawlnga hi. </VERS>
+            <VERS vnumber="3"> Tua ahih ciangin Pasian in ni sagih ni thupha pia-in siangthosak hi. Bang hang hiam cih leh piansak nasepna ama nasep khempeuh panin tua ni-in Pasian a tawlnga hi. Eden Huanah Mi
+            </VERS>
+            <VERS vnumber="4"> Hihte pen, a kipiansak lai-a vantung le leitung tangthu ahi hi. Topa Pasian in leitung le vantungte a bawl hi. </VERS>
+            <VERS vnumber="5"> Topa Pasian in leitungah guah zusak nai lo a, leitang a kho ding mi om lo ahih manin gam sung kungnote lei sungah om nai lo a, lo sung ankungte po khia lo hi. </VERS>
+            <VERS vnumber="6"> Tua ciangin leitung panin meii lum kaaito-in, lei maitang khempeuh a buah hunin </VERS>
+            <VERS vnumber="7"> Topa Pasian in leilak pan a leivui tawh mihing bawl a, a nak sungah nuntakna hu sang suk hi. Tua mi pen leitung nuntakna a nei mihing hong suak pah hi.
+            </VERS>
+            <VERS vnumber="8"> Topa Pasian in nisuahna lamah Eden huan khat bawl hi. Tua lai munah ama bawlsa mipa koih hi. </VERS>
+            <VERS vnumber="9"> A deihhuai, nek dinga a hoih singkung nam khempeuh, huan laizangah nuntakna singkung le a pha le a sia theihna singkung, lei sung panin Topa Pasian in posak hi.
+            </VERS>
+            <VERS vnumber="10"> Huan sung a kawtsak dingin Eden nawkin gun khat hong luang a, tua mun panin gun hong kikhenin li hong pha hi. </VERS>
+            <VERS vnumber="11"> A masa pen gun a min Pishon hi a, kham a omna, Havilah gambup kimkotah a luang pen ahi hi. </VERS>
+            <VERS vnumber="12"> Tua gam a khamte hoih hi. Tua munah bedolak singnai le onik suang om hi. </VERS>
+            <VERS vnumber="13"> A nihna gun min Gihon hi a, Kush gam kimkotah a luang pen ahi hi. </VERS>
+            <VERS vnumber="14"> Assiria gam nisuahna lamah a luang a thumna gun min Hiddekel ahi hi. A lina gun pen Eufratis gun ahi hi.
+            </VERS>
+            <VERS vnumber="15"> Topa Pasian in mipa la-in, Eden huan kho-in a kem dingin a koih hi. </VERS>
+            <VERS vnumber="16"> Topa Pasian in mipa thu pia a, “Na ut utin huan sung singkung gah khempeuh na ne thei ding hi. </VERS>
+            <VERS vnumber="17"> Ahih hangin a pha le a sia theihna singkung gah pen na ne kei ding hi. Bang hang hiam cih leh tua na nek ni-in na si ding hi,” a ci hi.
+            </VERS>
+            <VERS vnumber="18"> Tua ciangin Topa Pasian in, “Mipa amah guak a om ding hoih lo hi. Ama ading a kituak a huh ding ka bawlsak ding hi,” ci hi. </VERS>
+            <VERS vnumber="19"> Tua ahih ciangin Topa Pasian in gam sung ganhing khempeuh le huihlak vasa khempeuh lei tawh bawl a, mipa in tuate bang a ci hiam ci-in a theih nadingin mipa kiangah tuate a paipih hi. Nuntakna a nei khempeuhte pen mipa’ cih bangbang a min hi pahpah hi. </VERS>
+            <VERS vnumber="20"> Mipa in ganhing nam khempeuh, huihlak vasa khempeuh le gam sung ganhing khempeuh min a vawh hi. Ahih hangin mipa a’ dinga a kilawm, amah a huh ding khat zong om lo hi.
+            </VERS>
+            <VERS vnumber="21"> Tua ahih ciangin Topa Pasian in mipa ihmut suaksak mahmah a, ama ihmut kalin a nakguhte khat la-in tua mun pen satak tawh a dimsak hi. </VERS>
+            <VERS vnumber="22"> Topa Pasian in mipa’ tung panin a lak khiat nakguh pen numei khatin bawl a, mipa kiangah tua nu a paipih hi. </VERS>
+            <VERS vnumber="23"> Tua ciangin mipa in, “Tu petpetin hih pen keima guhte le keima sate ahi hi. Amah pen mipa sung panin a kila khia ahih manin ‘Numei’ kici ding hi,” a ci hi. </VERS>
+            <VERS vnumber="24"> Tua thu hangin pasal in a nu le a pa nusia-in a zi tawh kigawm a, amau tegel pum khat a bang uh hi.
+            </VERS>
+            <VERS vnumber="25"> Mipa le a zi a guaktangin om uh a, maizum lo uh hi.</VERS>
+        </CHAPTER>
+        <CHAPTER cnumber="3">
+            <VERS vnumber="1"> Mi’ Thuman lohna Tu-in gulpi pen, Topa Pasian’ bawlsa gamlak ganhing dangte sangin ngiansiam zaw hi. Amah in numei kiangah, “Pasian in, ‘Huan sung singgah khat peuhpeuh ne lo ding,’ hong ci ahi hiam?” ci hi.
+            </VERS>
+            <VERS vnumber="2"> Numei in gulpi kiangah, “Huan sung singgahte ka ne thei ding uh hi. </VERS>
+            <VERS vnumber="3"> Ahih hangin Pasian in, ‘Huan laizang a om singgah na ne kei ding uh hi, zong na lawng kei ding uh hi. Tua bang hih le-uhcin na si ding uh hi,’ hong ci hi,” a ci hi.
+            </VERS>
+            <VERS vnumber="4"> Ahih hangin gulpi in numei kiangah, “Na si kei ding uh hi. </VERS>
+            <VERS vnumber="5"> Bang hang hiam cih leh tua singgah na nek ciangun na mitte uh hong vak dinga, a pha le a sia thei-in, Pasian tawh na kibat ding lamtak uh Pasian in thei hi,” a ci hi.
+            </VERS>
+            <VERS vnumber="6"> Tua ahih ciangin singkung a hoihna, mi a pilsak dingin tua a gah a deihhuaina a muh ciangin, a singgah loin a ne hi. Amah in singgah kimkhat a pasal pia a, a pasal in zong a ne hi. </VERS>
+            <VERS vnumber="7"> A nek khit phetun amau tegel in khua phawk uh a, a guaktangin a omlam uh kithei uh hi. Amaute in theitehte khui tuahin puansilh dingin a bawl uh hi.
+            </VERS>
+            <VERS vnumber="8"> A nitak ciangin huan sungah Topa Pasian a hong paina ging amaute in za uh a, Topa Pasian’ muh loh dingin mipa le a zi, huan sung singte lakah a bu uh hi. </VERS>
+            <VERS vnumber="9"> Ahih hangin Topa Pasian in mipa samin ama kiangah, “Koi lai-ah om na hi hiam?” a ci hi.
+            </VERS>
+            <VERS vnumber="10"> Amah in, “Nangma ginna huan sungah ka za a, ka lau hi. Bang hang hiam cih leh ka guaktangin om ka hih manin ka bucip hi,” a ci hi.
+            </VERS>
+            <VERS vnumber="11"> Amah in, “Na guaktang a na omna kua in hong gen ahi hiam? Na nek loh dinga kong thupiak singgah ne kha na hi hiam?” ci hi. </VERS>
+            <VERS vnumber="12"> Mipa in, “Kei tawh a om dinga nong piak numei in singgah hong pia a, ke’n ka ne hi,” ci hi.
+            </VERS>
+            <VERS vnumber="13"> Tua ciangin Topa Pasian in numei kiangah, “Bangci a hici gamtat na hi hiam?” a ci hi. Numei in, “Gulpi in kei hong khem a, ka ne hi,” ci hi. </VERS>
+            <VERS vnumber="14"> Tua ciangin Topa Pasian in gulpi kiangah, “Nang, hih bangin gamta khin na hih manin, ganhing khempeuhte le] gamlak ganhing khempeuhte sangin samsiatna na ngah zaw hi. Na gilpi-in lam na pai dinga, na nuntak sung tawntungin leivui na ne ding hi.
+            </VERS>
+            <VERS vnumber="15"> Nang le numei kikal na suanlekhakte le ama suanlekhakte kikalah kilangneihna ka omsak ding hi. Amah in na lutang hong sunim dinga, nang in ama khetul na sunim ding hi,” a ci hi.
+            </VERS>
+            <VERS vnumber="16"> Tua ciangin numei kiangah, “Naupaiina-ah na gimna nakpitakin ka khangsak dinga, na a sapipi-in nau na nei ding hi. Ahi zongin na pasal mah na deih dinga, amah in nang tungah hong uk ding hi,” a ci hi.
+            </VERS>
+            <VERS vnumber="17"> Tua ciangin mipa kiangah, “Nang in na zi’ thu mangin, ‘Nang in na ne kei ding hi,’ ci-in nang kong thupiak singgah ne na hih ciangin, nangma hangin leitang in samsiatna ngah hi. Na nuntak tawntung gimpi-in na semin na annek ding na zong ding hi.
+            </VERS>
+            <VERS vnumber="18"> Ling le kiakte, nang adingin hong po khiasak dinga, nang in gamlak kungte na ne ding hi.
+            </VERS>
+            <VERS vnumber="19"> Lei-ah na ciahkik matengin khua-ul kai-in na na sep ciang bekin an na ne ding hi. Bang hang hiam cih leh lei sung panin nang hong kipiangsak a, nang, leivui na hih manin, leivui mah na suakkik ding hi,” a ci hi.
+            </VERS>
+            <VERS vnumber="20"> Mipa in a zi’ min pen Eve, ci hi. Bang hang hiam cih leh amah pen mihing khempeuh’ nu ahi hi. </VERS>
+            <VERS vnumber="21"> Topa Pasian in mipa le a zi adingin savun puan bawl a, amaute silhsak hi.
+            </VERS>
+            <VERS vnumber="22"> Tua ciangin Topa Pasian in, “En un, mipa pen eite khat tawh kibang a, a pha le a sia thei hi. Amah in nuntakna singgah ne-in a hin tawntung khak loh nadingin i vaihawm ding hi,” ci hi. </VERS>
+            <VERS vnumber="23"> Tua ahih ciangin Topa Pasian in, amah a kipiansakna leitang a kho dingin Eden Huan panin mipa a sawl khia hi. </VERS>
+            <VERS vnumber="24"> Amah in mipa hawl khia hi. Kherub-te le mun khempeuh a nga thei meikuang namsau pen nuntakna singkung lampi a cing dingin Eden Huan nisuahna lamah a koih hi.
+            </VERS>
+        </CHAPTER>
+        <CHAPTER cnumber="4">
+            <VERS vnumber="1"> Kain le Abel Tu-in mipa in ama zi Eve luppih a, amah gai-in Kain nei a, “Topa’ huhna tawh mi khat ka ngah khin hi,” ci hi. </VERS>
+            <VERS vnumber="2"> Tua ciangin a sanggampa Abel nei leuleu hi. Tu-in Abel, tuu kempa hi a, Kain, lo khopa ahi hi. </VERS>
+            <VERS vnumber="3"> Tua hun sungin Kain in lei pan a piang gah piakna Topa’ tungah paipih a, </VERS>
+            <VERS vnumber="4"> Abel in a tuuhon tacilte le a sa limcite paipih hi. Topa in Abel le ama piakna thusim a, </VERS>
+            <VERS vnumber="5"> ahih hangin Kain le ama piakna thusim lo hi. Tua ahih ciangin Kain heh mahmah a, a mai sia hi. </VERS>
+            <VERS vnumber="6"> Topa in Kain tungah, “Bang hangin nang heh a, bang hangin na mai sia ahi hiam? </VERS>
+            <VERS vnumber="7"> Limtakin hih lecin, nang hong kisang lo ding ahi hiam? Limtakin na hih kei leh nang hong hih nuamin mawhna in hong buk a, nang hong uk nuam hi. Ahih hangin nang in tua mawhna na zawh ding ahi hi,” a ci hi.
+            </VERS>
+            <VERS vnumber="8"> Kain in a sanggampa Abel kiangah, “Gamlakah vak ni,” ci hi. Amaute gamlakah a om ciangin Kain in a sanggampa Abel a that hi.
+            </VERS>
+            <VERS vnumber="9"> Tua ciangin Topa in Kain tungah, “Na sanggampa Abel koi-ah om ahi hiam?” a ci hi. Amah in, “Ka thei kei hi. Kei, ka sanggam a kempa ka hi hiam?” ci hi.
+            </VERS>
+            <VERS vnumber="10"> Topa in, “Bang hangin hici gamtat na hi hiam? Na sanggampa’ sisan, leilak panin kei tungah hong kiko hi. </VERS>
+            <VERS vnumber="11"> Na sanggampa’ sisan a hup dingin a kam a ka leitang tungah tu-in nang hong kisamsiat hi. </VERS>
+            <VERS vnumber="12"> Lo na khawh ciangin nang adingin an hong piangsak nawn lo ding hi. Nang pen a galtai, leitunga a vakvai na hi ding hi,” a ci hi.
+            </VERS>
+            <VERS vnumber="13"> Kain in Topa’ tungah, “Keimah gim hong kipiakna, ka thuak zawh ding hi lo hi. </VERS>
+            <VERS vnumber="14"> En in, tuni-in nangmah in leitung panin kei nong hawl khia a, nang kiang panin kei nong not khia hi. Kei pen a galtai, leitungah a vakvai ka hi dinga, kei hong mu peuhmah in hong that ding hi,” a ci hi.
+            </VERS>
+            <VERS vnumber="15"> Tua ciangin Topa in ama kiangah, “Tua bang hi lo ding hi. Khatpeuh in Kain a thah leh tua pa tungah a zah sagihin kithuk ding hi,” a ci hi. Amah a tuakpeuh in a thahkhak loh nadingin Topa in Kain’ tungah ciaptehna khat a koih hi. </VERS>
+            <VERS vnumber="16"> Tua ciangin Topa’ omna panin Kain pai khia-in Eden nisuahna lam Nod gam sungah a teeng hi. Kain’ Suanlekhakte
+            </VERS>
+            <VERS vnumber="17"> Kain in a zi luppih a, amah gai-in Enok a nei hi. Kain in khuapi khat sat a, tua khuapi min dingin ama tapa’ min tamin Enok a phuak hi. </VERS>
+            <VERS vnumber="18"> Enok sung panin Irad suak a, Irad pen Mehujael’ pa ahi hi. Mehujael pen Methushael’ pa hi a, Methushael pen Lamek’ pa ahi hi. </VERS>
+            <VERS vnumber="19"> Lamek in zi nih nei hi. A khat’ min Adah hi a, adang khat’ min Zillah ahi hi. </VERS>
+            <VERS vnumber="20"> Adah in tapa Jabal nei hi. Amah pen puanbukte sungah teengin ganhing a neite’ pianna pupi ahi hi. </VERS>
+            <VERS vnumber="21"> A sanggampa’ min Jubal hi a, laiza lasakna le tamngai tumte’ pianna pupi ahi hi. </VERS>
+            <VERS vnumber="22"> Zillah in Tubalkain nei a, sumngo le sik nazat khempeuh a bawlte’ pianna pupi ahi hi. Tubalkain’ sanggamnu pen Naamah ahi hi.
+            </VERS>
+            <VERS vnumber="23"> Lamek in a zite kiangah, “Adah le Zillah aw, ka aw ngai un. Lamek’ zite aw, ka thugen ngai un. Kei hong liamsak manin mi khat, kei hong sat manin khanglai mi khat ka that khin hi.
+            </VERS>
+            <VERS vnumber="24"> Kain a kithah manin a zah sagihin kithukkik ahihleh, Lamek a kithah manin a zah sawmsagih le sagihin kithukkik taktak ding hi,” a ci hi. Seth’ Suanlekhakte
+            </VERS>
+            <VERS vnumber="25"> Adam in a zi luppih leuleu hi. Amah in tapa khat nei a, a min Seth ci hi. Bang hang hiam cih leh, “Kain in Abel that ahih manin Abel’ tangin Pasian in kei adingin naupang khat hong sehsak hi,” amah in ci hi. </VERS>
+            <VERS vnumber="26"> Seth in zong tapa khat nei a, ama min Enosh ci hi. Tua hun a kipanin mite in Topa bia-in a min lawh ding kipan ta uh hi.</VERS>
+        </CHAPTER>
+        <CHAPTER cnumber="5">
+            <VERS vnumber="1"> Hih pen Adam’ suanlekhakte’ laibu ahi hi. Pasian in mi a piansakin, amah in Pasian tawh a kisunin a bawl hi. </VERS>
+            <VERS vnumber="2"> Amah in numei le pasal a piangsak hi. Amaute a kipiansakin amah in amaute, “Mi,” ci a, amaute thupha a pia hi.  </VERS>
+            <VERS vnumber="3"> Adam kum za le kum sawmthum a phak khit ciangin, amah a sun tapa khat nei a, Seth ci-in a min a phuak hi. </VERS>
+            <VERS vnumber="4"> Seth a suah khit ciangin Adam kum zagiat sung nungta lai hi. Amah in tanu le tapa dang zong a nei hi. </VERS>
+            <VERS vnumber="5"> Tua ahih ciangin Adam’ nuntak hun sungteng pen kum zakua le kum sawmthum hi a, tua ciangin amah si hi.
+            </VERS>
+            <VERS vnumber="6"> Seth kum za le kum nga a phak ciangin Enosh kici tapa khat a nei hi. </VERS>
+            <VERS vnumber="7"> Enosh a suah khit ciangin Seth kum zagiat le kum sawmthum nungta a, tanu le tapa dang nei lai hi. </VERS>
+            <VERS vnumber="8"> Tua ahih ciangin Seth’ khan sungteng pen kum zakua le kum sawm le kum nih hi a, tua ciangin amah si hi.
+            </VERS>
+            <VERS vnumber="9"> Enosh kum sawmkua a phak ciangin, amah in Kenan kici tapa khat nei hi. </VERS>
+            <VERS vnumber="10"> Kenan a suah khit ciangin Enosh kum zagiat le kum sawm le kum nga nungta a, tanu le tapa dang nei lai hi. </VERS>
+            <VERS vnumber="11"> Tua ahih ciangin Enosh’ khan sungteng pen kum zakua le kum nga hi a, tua ciangin amah si hi.
+            </VERS>
+            <VERS vnumber="12"> Kenan kum sawmsagih a phak ciangin, Mahalalel kici tapa khat nei hi. </VERS>
+            <VERS vnumber="13"> Mahalalel’ suah khit ciangin Kenan kum zagiat le kum sawmli nungta a, tanu le tapa dang nei lai hi. </VERS>
+            <VERS vnumber="14"> Tua ahih ciangin Kenan’ khan sungteng pen kum zakua le kum sawm hi a, tua ciangin amah si hi.
+            </VERS>
+            <VERS vnumber="15"> Mahalalel kum sawmguk le nga a phak ciangin Jared kici tapa khat nei hi. </VERS>
+            <VERS vnumber="16"> Jared’ suah khit ciangin Mahalalel kum zagiat le kum sawmthum nungta a, tanu le tapa dang nei lai hi. </VERS>
+            <VERS vnumber="17"> Tua ahih ciangin Mahalalel’ khan sungteng pen kum zagiat le kum sawmkua le kum nga hi a, tua ciangin amah si hi.
+            </VERS>
+            <VERS vnumber="18"> Jared kum za le kum sawmguk le kum nih a phak ciangin Enok kici tapa khat nei hi. </VERS>
+            <VERS vnumber="19"> Enok’ suah khit ciangin Jared kum zagiat nungta a, tanu le tapa dang nei lai hi. </VERS>
+            <VERS vnumber="20"> Tua ahih ciangin Jared’ khan sungteng pen kum zakua le kum sawmguk le kum nih hi a, tua ciangin amah si hi.
+            </VERS>
+            <VERS vnumber="21"> Enok kum sawmguk le nga a phak ciangin, Methuselah kici tapa khat nei hi. </VERS>
+            <VERS vnumber="22"> Methuselah’ suah khit ciangin kum zathum sung Enok le Pasian kikhawl a, tanu le tapa dang nei lai hi. </VERS>
+            <VERS vnumber="23"> Tua ahih ciangin Enok’ khan sungteng pen kum zathum le kum sawmguk le kum nga ahi hi. </VERS>
+            <VERS vnumber="24"> Enok pen Pasian tawh kikhawl hi. Enok kimu nawn lo hi; bang hang hiam cih leh Pasian in amah la hi.
+            </VERS>
+            <VERS vnumber="25"> Methuselah kum za le kum sawmgiat le kum sagih a phak ciangin Lamek kici tapa khat nei hi. </VERS>
+            <VERS vnumber="26"> Lamek’ suah khit ciangin Methuselah kum zasagih le kum sawmgiat le kum nih nungta a, tanu le tapa dang nei lai hi. </VERS>
+            <VERS vnumber="27"> Tua ahih ciangin Methuselah’ khan sungteng pen kum zakua le kum sawmguk le kum kua hi a, tua ciangin amah si hi.
+            </VERS>
+            <VERS vnumber="28"> Lamek kum za le kum sawmgiat le kum nih a phak ciangin tapa khat nei a, </VERS>
+            <VERS vnumber="29"> ama min Noah phuakin, “Topa in a samsiatsa leitang panin hih pa in i nasepna le i gimnate-ah eite hong khah khia ding hi,” a ci hi. </VERS>
+            <VERS vnumber="30"> Noah’ suah khit ciangin Lamek kum zanga le kum sawmkua le kum nga nungta a, tanu le tapa dang nei lai hi. </VERS>
+            <VERS vnumber="31"> Tua ahih ciangin Lamek’ khan sungteng pen kum zasagih le kum sawmsagih le kum sagih hi a, tua ciangin amah si hi.
+            </VERS>
+            <VERS vnumber="32"> Noah kum zanga a phak khit ciangin Shem, Ham le Jafeth, tapa thum a nei hi.
+            </VERS>
+        </CHAPTER>
+        <CHAPTER cnumber="6">
+            <VERS vnumber="1"> Mihing A Gitlohna Leitungah mite tam dingin hong kipanin, amau’ sung panin tanute hong suah ciangin, </VERS>
+            <VERS vnumber="2"> vana om mite in leitung mite’ tanute hoihsa uh ahih manin a deih bangun amaute zi-in a la uh hi. </VERS>
+            <VERS vnumber="3"> Tua ciangin Topa in, “Mihingte sungah ka Kha om paisuak nawn lo ding hi. Bang hang hiam cih leh mihingte a mawh hi khinta a, kum za le kum sawmnih sung kisik nading hun kipia lai bek ding hi,” a ci hi. </VERS>
+            <VERS vnumber="4"> Vana om mite in leitung mihing tanute luppihin, amaute in ta a neih hun laitak hitaleh tua khit hitaleh, amau’ suanlekhak Nefilim a kici mite leitungah om hi. Hih mite pen tang lai-a mi thahat, mi minthangte ahi uh hi. 
+            </VERS>
+            <VERS vnumber="5"> Leitungah mihing a gitlohna a liatna le mihing lungsim ngaihsutna peuhmah a sia ahih ngitngetna thu Topa in mu hi. </VERS>
+            <VERS vnumber="6"> Leitungah mihing a bawl pen Topa khial kisa a, tua thu in ama lungsim dahsak hi. </VERS>
+            <VERS vnumber="7"> Tua ahih ciangin Topa in, “Ka piansaksa mihing, ganhing, a bokvak ganhingte le huihlak vasate, leitung panin ka phiat khia ding hi. Bang hang hiam cih leh amaute ka bawl ka khial hi,” a ci hi. </VERS>
+            <VERS vnumber="8"> Ahih hangin Noah in Topa’ maipha mu hi. Noah in Teembaw Bawl
+            </VERS>
+            <VERS vnumber="9"> Noah’ tangthu hih bang ahi hi. Noah a thuman mi khat hi a, ama khangah paubaang lo hi. Noah pen Pasian tawh kikhawl hi. </VERS>
+            <VERS vnumber="10"> Noah in tapa thum, Shem, Ham le Jafeth a nei hi.
+            </VERS>
+            <VERS vnumber="11"> Tu-in Pasian’ muhna-ah leitung sia a, leitungah ngongtatna kidim hi. </VERS>
+            <VERS vnumber="12"> Pasian in leitung en a, a kisiat gawp mu hi. Bang hang hiam cih leh leitungah mi khempeuh a sia-in a gamta lo kuamah om lo hi.
+            </VERS>
+            <VERS vnumber="13"> Pasian in Noah’ kiangah, “Mi khempeuh beisak ding ka khentat zo hi; bang hang hiam cih leh amau’ hangin leitungah ngongtatna kidim hi. En in, leitung tawh amaute ka susia khawm ding hi. </VERS>
+            <VERS vnumber="14"> Nang adingin noah-taaksing tawh teembaw khat bawl in. Teembaw sungah a deite bawl inla, a sung le a pua kultal tui tawh zut in. </VERS>
+            <VERS vnumber="15"> Na bawl nading dan hih bang ahi hi: Teembaw a sauna pi zali le sawmnga, a zaina pi sawmsagih le nga, a sanna pi sawmli le nga hi ding hi. </VERS>
+            <VERS vnumber="16"> Teembaw adingin kongkhak khat bawl inla, tua tung pi khat le alang ciangah zawh bawl in. A pangah teembaw kongkhak bulh in. A dawl nuainung, a dawl nihna le a dawl thumnate bawl in. </VERS>
+            <VERS vnumber="17"> Bang hang hiam cih leh, en in, leitungah a om nuntak husanna a nei khempeuh a susia dingin leitungah tuiciin ka tungsak ding hi. Leitunga a om khempeuh si ding hi. </VERS>
+            <VERS vnumber="18"> Ahih hangin nang tawh ka thuciamna ka kipsak ding hi. Teembaw sungah nang na hong pai ding hi. Nang, na tapate, na zi le na tapate’ zite tawh na paikhawm ding uh hi. </VERS>
+            <VERS vnumber="19"> Nuntakna a nei khempeuh nang tawh a nungta dingin nam khatah nih ciat teembaw sungah na paipih ding hi. Tuate pen a nu le a pa hi ding hi. </VERS>
+            <VERS vnumber="20"> Vasate amau’ nam ciatin, ganhingte amau’ nam ciatin, leilakah a bokvak ganhingte peuhmah amau’ nam ciatin, a suakta dingin nam khatah nih ciat nang kiangah hong pai ding uh hi. </VERS>
+            <VERS vnumber="21"> A kine an nam khempeuh zong la inla khol in. Tuate pen nang le amaute adingin an ding ahi hi,” a ci hi. </VERS>
+            <VERS vnumber="22"> Noah zong tua bangmahin gamta a, Pasian’ thupiak khempeuh a hih hi.
+            </VERS>
+        </CHAPTER>
+        <CHAPTER cnumber="7">
+            <VERS vnumber="1"> Tuiciin Tua ciangin Topa in Noah kiangah, “Nang le na innkuanpih mi khempeuh teembaw sungah pai un. Bang hang hiam cih leh hih khang mite sung panin nang bek a thuman na hihna ka hong thei hi. </VERS>
+            <VERS vnumber="2"> Ganhing siangtho nupa kop sagih, ganhing a siang lo nupa kop khat, </VERS>
+            <VERS vnumber="3"> huihlak vasate zong nupa kop sagih, leitungah amau’ nam a manthan loh nadingin la in. </VERS>
+            <VERS vnumber="4"> Bang hang hiam cih leh ni sagih sungin sun sawmli le zan sawmli sung leitungah guah ka zusak ding hi. Ka bawlsa nuntakna a nei peuhmah leitung panin ka phiat khia ding hi,” a ci hi. </VERS>
+            <VERS vnumber="5"> Noah in zong Topa’ thupiak khempeuh a hih hi.
+            </VERS>
+            <VERS vnumber="6"> Leitungah tuiciin a tun lai-in Noah kum zaguk pha hi. </VERS>
+            <VERS vnumber="7"> Tuiciin a pelh dingin Noah, a tapate, a zi le a tapate’ zite teembaw sungah pai uh hi. </VERS>
+            <VERS vnumber="8"> Ganhing siangthote, a siang lo ganhingte, vasate, leitunga a bokvak peuhmah, </VERS>
+            <VERS vnumber="9"> a nupa kopin Pasian in Noah a thupiaksa bangin teembaw sungah Noah tawh pai uh hi. </VERS>
+            <VERS vnumber="10"> A ni sagih ni-in leitungah tuiciin tung hi.
+            </VERS>
+            <VERS vnumber="11"> Noah’ nuntak kum zaguk kum, a kha nihna, tua kha ni sawm le sagih ni-in vana om a thuk mahmah tuikhukte puakkhamin, vantung tawlette kihong hi. </VERS>
+            <VERS vnumber="12"> Sun sawmli le zan sawmli sung leitungah guah zu hi. </VERS>
+            <VERS vnumber="13"> Tua ni teekteekin Noah le a tapate Shem, Ham, Jafeth le Noah’ zi le a tapate’ zi thumte, amau tawh teembaw sungah a tum uh hi. </VERS>
+            <VERS vnumber="14"> Amaute le gamsa peuhmah amau’ nam ciat, innsa khempeuh amau’ nam ciat, leitungah a bokvak peuhmah amau’ nam ciat le vasa peuhmah amau’ nam ciat, vasa namkim amau’ nam ciatin a tum uh hi. </VERS>
+            <VERS vnumber="15"> Nuntak husanna a nei khempeuh a nupa kop ciatin Noah tawh teembaw sungah a pai uh hi. </VERS>
+            <VERS vnumber="16"> Pasian in Noah tungah a thupiakna bangin nuntakna a nei khempeuh teembaw sungah a lut khit ciangin Topa in Noah kong a khaknelh hi.
+            </VERS>
+            <VERS vnumber="17"> Leitungah tuiciin ni sawmli sung omden hi. Tui tam semsem a, teembaw laamto-in, leitung’ tungah khangin sangto lai hi. </VERS>
+            <VERS vnumber="18"> Tui khangto-in leitungah tam mahmah hi. Tui tungah teembaw laam hi. </VERS>
+            <VERS vnumber="19"> Leitungah tui khangkhang ahih manin mual sangte khempeuh tuumcip hi. </VERS>
+            <VERS vnumber="20"> Mual liante tungah tui omto lai a, tuate tungah pi sawmnih le nih thuk-in tuumcip hi. </VERS>
+            <VERS vnumber="21"> Leitungah a nungta khempeuh, vasate, innsate, gamsate, a honhonin leitungah a hon om ganhing khempeuh le mi khempeuh a si uh hi. </VERS>
+            <VERS vnumber="22"> Leitungah a om, nuntakna hu a nei peuhmah a si uh hi. </VERS>
+            <VERS vnumber="23"> Mihing, ganhing, a bokvakte le huihlak vasate, leitunga om nuntakna a nei peuhmah amah in phiat khia hi. Leitung panin amaute kiphiat khia hi. Noah le amah tawh teembaw sunga a om teng bek a suakta uh hi. </VERS>
+            <VERS vnumber="24"> Ni za le ni sawmnga sung leitungah tui om hi.</VERS>
+        </CHAPTER>
+    </BIBLEBOOK>
+</XMLBIBLE>
