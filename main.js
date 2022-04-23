@@ -6,6 +6,7 @@ function operation(bible) {
     const fixConverted = converted.replaceAll(/\nCH/g, '').replaceAll(' *', '').replaceAll('></VERS>', '>').concat('</VERS></CHAPTER>')
     const finalFix = fixConverted.replace(`</VERS> </CHAPTER>`, '')
     document.getElementById('ans').textContent = finalFix.replaceAll('\n', '')
+    // document.getElementById('ans').textContent = bible
 }
 
 const form = document.querySelector('form')
