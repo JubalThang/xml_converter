@@ -2,34 +2,58 @@ import requests
 from bs4 import BeautifulSoup
 import re
 
-url_link = input("Paste url :")
+url_link = input("Paste url : ")
+# book_name = input("Enter the name of the book: ")
+# book_number = input("Enter the number of the book: ")
 chapter_count = input("How many chapters in this book?: ")
-fr = re.search('\d+', url_link).group()
-to = int(chapter_count) + 1
 
-# print(f'{fr} + {chapter_count}')
-for index in range(int(fr), to):
-    url_request = re.sub('\d+', f'{index}', url_link)
+counter = 1
+
+lo = re.search('\.html',url_link).group()
+
+url_link = re.sub(f'{lo}',f'{counter}xxx{lo}',url_link)
+
+# to = int(chapter_count) + 1
+
+for index in range(int(chapter_count)):
+    url_request = re.sub('\dxxx',f'{index+1}', url_link)
     url = requests.get(url_request)
    
+    # parsing the html
     soup = BeautifulSoup(url.content, "html.parser")
 
+    # getting the chapter 
     c = soup.find('div', class_='c')
-    result = soup.find_all('div', class_='p')
 
-    for r in result:
+    # select multiple classes that have the input clase names
+    divs = soup.find_all(attrs={'class': ['p','q1','q2','m']})
+
+    # remove unwanted tags
+    for r in divs:
        for cf in r.find_all("span", class_='cf'):
            cf.extract()
 
+    # writing start here
+    # The code are from /document/code/FetchWebsite/dummy.py
     with open(f'bibleTemp.xml', encoding='utf-8', mode='a') as f:
+        chapter = ""
         f.write(f'<CHAPTER cnumber="{c.get_text(strip=True)}">')
-        for p in result:
-            nums = p.find_all("span", class_='v-num')
-            vs = p.find_all("span", class_='v')
-            for index,num in enumerate(nums):
-                vers = f'{num.get_text(strip=True)} {vs[index].get_text(strip=True)}</VERS>'
-                v = re.search('\d+', vers).group()
-                m = re.sub('\d+',f'<VERS vnumber="{v}">', vers)
-                f.write(m)
-        f.write('</CHAPTER>')
+        for p in divs:
+            if p.find_all(attrs={'class': ['v-num']}) == []:
+                vers = p.find(attrs={'class': ['v']}).get_text(strip=True)
+                # vers = re.sub('\n', '', vers)
+                # f.write(vers)
+                chapter += vers 
+            else:
+                vnums = p.find_all(attrs={'class': ['v-num']})
+                vs = p.find_all(attrs={'class': ['v']})
+                for index,vnum in enumerate(vnums):
+                    vers = f'{vnum.get_text(strip=True)} {vs[index].get_text(strip=True)}'
+                    v = re.search('\d+-\d+|\d+', vers).group()
+                    vers = re.sub(f'{v}',f'</VERS> <VERS vnumber="{v}">',vers)
+                    # f.write(f'{vers}')
+                    chapter += vers
+        chapter = re.sub('</VERS>', '', chapter, 1)
+        f.write(chapter)
+        f.write('</VERS></CHAPTER>')
 print('filed saved!')
