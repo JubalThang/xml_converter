@@ -1,59 +1,58 @@
 import requests 
 from bs4 import BeautifulSoup
 import re
+import os 
 
 url_link = input("Paste url : ")
-# book_name = input("Enter the name of the book: ")
-# book_number = input("Enter the number of the book: ")
+book_name = input("Enter the name of the book: ")
 chapter_count = input("How many chapters in this book?: ")
-
-counter = 1
-
 lo = re.search('\.html',url_link).group()
+# add 1 in the url in case the url already has 1xxx.html in the link
+url_link = re.sub(f'{lo}',f'{1}xxx{lo}',url_link)
 
-url_link = re.sub(f'{lo}',f'{counter}xxx{lo}',url_link)
+# create a folder for the book in current directory
+directory = f'./tdm_simple/'
+file_name = f'{book_name}.xml'
+file_path = os.path.join(directory,file_name)
 
-# to = int(chapter_count) + 1
+# check the folder is weather already exists 
+if not os.path.exists(directory):
+    os.mkdir(directory)
 
 for index in range(int(chapter_count)):
     url_request = re.sub('\dxxx',f'{index+1}', url_link)
     url = requests.get(url_request)
-   
     # parsing the html
     soup = BeautifulSoup(url.content, "html.parser")
-
     # getting the chapter 
     c = soup.find('div', class_='c')
-
     # select multiple classes that have the input clase names
     divs = soup.find_all(attrs={'class': ['p','q1','q2','m']})
-
     # remove unwanted tags
     for r in divs:
        for cf in r.find_all("span", class_='cf'):
            cf.extract()
-
+    search_text = r'\d+-\d+|\d+'
+    ver = ""
     # writing start here
-    # The code are from /document/code/FetchWebsite/dummy.py
-    with open(f'bibleTemp.xml', encoding='utf-8', mode='a') as f:
-        chapter = ""
-        f.write(f'<CHAPTER cnumber="{c.get_text(strip=True)}">')
+    print(f'{book_name}{index+1}.xml start writing .........')
+    with open(file_path, encoding='utf-8', mode='a') as f:
+        # f.write(f'\t<BIBLEBOOK bnumber="" bname="{book_name}" bsname="GEN">')
+        f.write('\n')
+        f.write(f'\t\t<CHAPTER cnumber="{c.get_text(strip=True)}">')
         for p in divs:
-            if p.find_all(attrs={'class': ['v-num']}) == []:
-                vers = p.find(attrs={'class': ['v']}).get_text(strip=True)
-                # vers = re.sub('\n', '', vers)
-                # f.write(vers)
-                chapter += vers 
-            else:
-                vnums = p.find_all(attrs={'class': ['v-num']})
-                vs = p.find_all(attrs={'class': ['v']})
-                for index,vnum in enumerate(vnums):
-                    vers = f'{vnum.get_text(strip=True)} {vs[index].get_text(strip=True)}'
-                    v = re.search('\d+-\d+|\d+', vers).group()
-                    vers = re.sub(f'{v}',f'</VERS> <VERS vnumber="{v}">',vers)
-                    # f.write(f'{vers}')
-                    chapter += vers
-        chapter = re.sub('</VERS>', '', chapter, 1)
-        f.write(chapter)
-        f.write('</VERS></CHAPTER>')
-print('filed saved!')
+           spans = p.find_all("span")
+           for span in spans:
+               for sentc in span:
+                    if re.search(f'{search_text}', sentc):
+                        ver_num = re.search(f'{search_text}', sentc).group()
+                        sentc = re.sub(f'{search_text}',f'</VERS>\n\t\t\t<VERS vnumber="{ver_num}">', sentc)
+                        ver += sentc
+                    else: 
+                        ver += f'{sentc}'
+        ver = re.sub('</VERS>', '', ver, 1)
+        f.write(f'{ver}</VERS>\n\t\t</CHAPTER>')
+        # f.write(f'{ver}</VERS>\n\t\t</CHAPTER>\n\t</BIBLEBOOK>')
+    f.close()
+    print("Done writing.")
+print('file saved!!!')
